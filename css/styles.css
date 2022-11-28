@@ -38,3 +38,12 @@ form {
     color: #e7dfdd;
 }
 
+/* CLASS SELECTORS */
+
+.circular {
+    border-radius: 100%;
+    width: 200px;
+}
+
+/* ID SELECTORS */
+
