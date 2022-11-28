@@ -1,19 +1,40 @@
 body {
-    background-color:powderblue;
+    background-color:#0E0B16;
      }
 
 hr {
-    border-color: grey;
+    border-color: #E7DFDD;
     border-width: 5px;
     border-style: none;
     border-top-style: dotted;
     width: 5%;
     }
 
-h3 {
-    color: darkcyan;
-    }
-    
 h1 {
-    color: darkcyan;
+    color: #A239CA;
     }
+
+h3 {
+    color: #4717F6;
+    }
+
+p {
+    color: #e7dfdd;
+}
+
+ul {
+    color: #e7dfdd;
+}
+
+ol {
+    color: #e7dfdd;
+}
+
+table {
+    color: #e7dfdd;
+}
+
+form {
+    color: #e7dfdd;
+}
+
