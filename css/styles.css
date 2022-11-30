@@ -1,4 +1,6 @@
 body {
+    margin: 0;
+    font-family: system-ui;
     /* background-color:#0E0B16; */
     /* background-image: url("stars.jpg"); */
      }
@@ -51,8 +53,9 @@ div {
 }
 
 .first {
+    background-image: url(../images/stars.jpg);
     text-align: center;
-    padding: 10%;
+    padding: 0%;
     margin: 0px;
 }
 
